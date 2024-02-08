@@ -1,6 +1,6 @@
 # ShellCommands README
 
-Please run this ShellCommands program in C++. 
+Please run this ShellCommands project in C++. 
 
 # Overview
 
@@ -24,10 +24,14 @@ The following are 5 shell commands that are used in this program each with its r
 5. Selecting option 1 will execute the "dir" shell command - it will list the files and directories in the current directory
 6. Selecting option 2 will execute the "cd" shell command - it will print the working directory
 7. Selecting option 3 will execute the "mkdir" shell command - it will create a new directory named 'NewDirectory' and this folder will be placed in the ShellCommands 
-   folder(this is where all of the contents of this project are saved).
-8. Selecting option 4 will execute the "echo" shell command - it will prompt the user to enter a message (for example type Hello World!) and the message will be displayed 
-   back to the user using the echo command.
-9. Selecting option 5 will ececute the "type" shell command - it will 
+   folder(this is where all the contents of this project are saved).
+8. Selecting option 4 will execute the "echo" shell command - it will prompt the user to enter a message (for example type 'Hello World!') and the message typed will be 
+   displayed back to the user using the echo command.
+9. Selecting option 5 will execute the "type" shell command - it will prompt the user to enter the first file name of their choice (for example type 'file1'), then it will 
+   prompt the user to enter the second file name of their choice (for example type 'file2'). These two files will be placed in the ShellCommands folder (this is where all 
+   the contents of this project are saved). The text: "This class is CS 540 Operating Systems" will be written to the file named 'file1' and the text "I am a student at 
+   Wichita State University" will be written to the file named 'file2.' Finally, using the shell command "type", the program will concatenate and display the content of both 
+   file1 and file2 to the user. 
 10. Selecting option 6 will exit the program
 
 # Note about _________
