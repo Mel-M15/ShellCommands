@@ -15,5 +15,19 @@ The following are 5 shell commands that are used in this program each with its r
 5. type - displays the contents of a text file
 
 # Instructions for Execution
-1. Run this program in C++
-2. A 
+1. Run this program in C++.
+2. A menu will appear asking the user to select their choice for which shell command to be executed. A user will be able to continually enter their choice of shell command 
+   to be executed. The shell command will be executed and then the program will continue to ask the user to select their choice of shell commands to be executed until the 
+   user selects option 6 (which is to exit the program).
+3. Options 1-5 will execute a specific shell command, while option 6 will terminate and exit the program.
+4. When selecting an option from the menu, enter the number numerically for proper execution.
+5. Selecting option 1 will execute the "dir" shell command - it will list the files and directories in the current directory
+6. Selecting option 2 will execute the "cd" shell command - it will print the working directory
+7. Selecting option 3 will execute the "mkdir" shell command - it will create a new directory named 'NewDirectory' and this folder will be placed in the ShellCommands 
+   folder(this is where all of the contents of this project are saved).
+8. Selecting option 4 will execute the "echo" shell command - it will prompt the user to enter a message (for example type Hello World!) and the message will be displayed 
+   back to the user using the echo command.
+9. Selecting option 5 will ececute the "type" shell command - it will 
+10. Selecting option 6 will exit the program
+
+# Note about _________
