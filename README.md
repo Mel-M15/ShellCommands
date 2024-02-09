@@ -36,4 +36,4 @@ The following are 5 shell commands that are used in this program each with its r
 10. Select option 6 - will exit the program
 
 # Note on the importance of validating user input and potential security risk associated with using the system function
-It is important to validate the user's input in order to get the output that is expected, by checking for user input errors and execution errors. If there is an error, the user is notified. Validating user input makes the program more reliable because it reduces the likelihood of errors. 
+It is important to validate the user’s input in order to verify that the program functions correctly. A user who inputs an incorrect/malicious command could cause potential security risks for the system. Checking that the input is correct will make the system have less potential security risks.
