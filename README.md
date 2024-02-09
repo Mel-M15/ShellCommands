@@ -35,5 +35,5 @@ The following are 5 shell commands that are used in this program each with its r
    file1 and file2 to the user. 
 10. Select option 6 - will exit the program
 
-# Note on the importance of validating user input and potential security risk associated with using the system function
+# Note: on the importance of validating user input and potential security risk associated with using the system function
 It is important to validate the user’s input in order to verify that the program functions correctly. A user who inputs an incorrect/malicious command could cause potential security risks for the system. Checking that the input is correct will make the system have less potential security risks.
